@@ -1,0 +1,2 @@
+urdf_33
+-DCATKIN_DEVEL_PREFIX=/home/borg/test/devel -DCMAKE_INSTALL_PREFIX=/home/borg/test/install -G Unix Makefiles
